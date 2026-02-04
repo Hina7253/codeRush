@@ -28,4 +28,5 @@ README.md
 
 
 ## 👩‍💻 Author
+Hina
 Built as part of a Developer / Tech Support task.
