@@ -1,4 +1,4 @@
-
+# 🚀 Join Coderush Landing Page
 
 A simple responsive landing page built using **HTML, CSS, and Vanilla JavaScript**.
 
